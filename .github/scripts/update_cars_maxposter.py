@@ -57,6 +57,9 @@ def create_file(car, filename, unique_id):
         color_image = model_mapping[model]['color'][color]
         thumb = f"/img/models/{folder}/colors/{color_image}.webp"
     else:
+        print(f"{model} {color}")
+        with open('output.txt', 'a') as file:
+            file.write(f"{model} {color}\n")
         # Если 'model' или 'color' не найдены, используем путь к изображению ошибки 404
         thumb = "/img/404.jpg"
         global error_404_found
@@ -77,14 +80,24 @@ def create_file(car, filename, unique_id):
 
     description = ""
 
+    # Предполагаем, что у вас есть элементы с именами 'brand', 'engineType', 'driveType' и т.д.
+    elements_to_localize = ['engineType', 'driveType', 'gearboxType', 'ptsType', 'color', 'body_type', 'wheel']
+    # , 'bodyColor', 'bodyType', 'steeringWheel'
+
+    for elem_name in elements_to_localize:
+        elem = car.find(elem_name)
+        localize_element_text(elem, translations)
+
+    color = car.find('color').text.strip().capitalize()
+
     for child in car:
-        # Skip nodes with child nodes (except images) and attributes
-        if list(child) and child.tag != 'images':
+        # Skip nodes with child nodes (except photos) and attributes
+        if list(child) and child.tag != 'photos':
             continue
-        if child.tag == 'images':
-            images = [img.text for img in child.findall('image')]
+        if child.tag == 'photos':
+            images = [img.text for img in child.findall('photo')]
             thumbs_files = createThumbs(images)
-            content += f"{child.tag}: {images}\n"
+            content += f"images: {images}\n"
             content += f"thumbs: {thumbs_files}\n"
         elif child.tag == 'color':
             content += f"{child.tag}: {color}\n"
@@ -190,8 +203,8 @@ def createThumbs(image_urls):
                 resized_image = image.resize((new_width, new_height), Image.Resampling.LANCZOS)
                 resized_image.save(output_path, "WEBP")
                 print(f"Создано превью: {relative_output_path}")
-            else:
-                print(f"Файл уже существует: {relative_output_path}")
+            # else:
+                # print(f"Файл уже существует: {relative_output_path}")
 
             # Добавление относительного пути файла в списки
             new_or_existing_files.append(relative_output_path)
@@ -210,6 +223,31 @@ def cleanup_unused_thumbs():
         os.remove(thumb)
         print(f"Удалено неиспользуемое превью: {thumb}")
 
+import xml.etree.ElementTree as ET
+
+def rename_child_element(parent, old_element_name, new_element_name):
+    old_element = parent.find(old_element_name)
+    if old_element is not None:
+        # Создаем новый элемент с нужным именем и текстом старого элемента
+        new_element = ET.Element(new_element_name)
+        new_element.text = old_element.text
+
+        # Заменяем старый элемент новым
+        parent.insert(list(parent).index(old_element), new_element)
+        parent.remove(old_element)
+
+def update_element_text(parent, element_name, new_text):
+    element = parent.find(element_name)
+    if element is not None:
+        element.text = new_text
+    else:
+        # Ваш код для обработки случая, когда элемент не найден
+        print(f"Элемент '{element_name}' не найден.")
+
+def localize_element_text(element, translations):
+    if element is not None and element.text in translations:
+        element.text = translations[element.text]
+
 # Путь к папке для сохранения уменьшенных изображений
 output_dir = "public/img/thumbs/"
 
@@ -220,6 +258,57 @@ current_thumbs = []
 error_404_found = False
 
 filename = 'cars.xml'
+
+translations = {
+     # engineType
+    "hybrid": "Гибрид",
+    "petrol": "Бензин",
+    "diesel": "Дизель",
+    "petrol_and_gas": "Бензин и газ",
+    "electric": "Электро",
+
+     # driveType
+    "full_4wd": "Постоянный полный",
+    "optional_4wd": "Подключаемый полный",
+    "front": "Передний",
+    "rear": "Задний",
+
+     # gearboxType
+    "robotized": "Робот",
+    "variator": "Вариатор",
+    "manual": "Механика",
+    "automatic": "Автомат",
+
+     # transmission
+    "RT": "Робот",
+    "CVT": "Вариатор",
+    "MT": "Механика",
+    "AT": "Автомат",
+
+    # ptsType
+    "duplicate": "Дубликат",
+    "original": "Оригинал",
+    "electronic": "Электронный",
+
+    # bodyColor
+    "black": "Черный",
+    "white": "Белый",
+    "blue": "Синий",
+    "gray": "Серый",
+    "silver": "Серебристый",
+    "brown": "Коричневый",
+    "red": "Красный",
+    "grey": "Серый",
+    "azure": "Лазурный",
+
+    # steeringWheel
+    "left": "Левый",
+    "right": "Правый",
+
+    # bodyType
+    "suv": "SUV",
+
+}
 
 if os.path.exists(filename):
     tree = ET.parse(filename)
@@ -249,9 +338,23 @@ os.makedirs(directory)
 
 existing_files = set()  # для сохранения имен созданных или обновленных файлов
 
+with open('output.txt', 'w') as file:
+    file.write("")
 
 
-for car in root.find('cars'):
+for car in root:
+    rename_child_element(car, 'brand', 'mark_id')
+    rename_child_element(car, 'model', 'folder_id')
+    rename_child_element(car, 'modification', 'modification_id')
+    rename_child_element(car, 'complectation', 'complectation_name')
+    rename_child_element(car, 'bodyColor', 'color')
+    rename_child_element(car, 'mileage', 'run')
+    rename_child_element(car, 'bodyType', 'body_type')
+    rename_child_element(car, 'steeringWheel', 'wheel')
+    max_discount_tag = "tradeinDiscount"
+    if(car.find('creditDiscount').text > car.find('tradeinDiscount').text):
+        max_discount_tag = "creditDiscount"
+    rename_child_element(car, max_discount_tag, 'max_discount')
     unique_id = f"{car.find('mark_id').text} {car.find('folder_id').text} {car.find('modification_id').text} {car.find('complectation_name').text} {car.find('color').text} {car.find('price').text} {car.find('year').text}"
     unique_id = f"{process_unique_id(unique_id)}"
     file_name = f"{unique_id}.mdx"
@@ -272,10 +375,10 @@ for existing_file in os.listdir(directory):
         os.remove(filepath)
 
 if error_404_found:
-    with open('output.txt', 'w') as file:
+    with open('output.txt', 'a') as file:
         file.write("error 404 found")
 else:
-    with open('output.txt', 'w') as file:
+    with open('output.txt', 'a') as file:
         file.write("no error")
 
 if error_404_found:
