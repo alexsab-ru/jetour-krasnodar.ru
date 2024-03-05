@@ -1,7 +1,7 @@
 export const BASE_URL = 'https://alexsab-ru.github.io/astro-json/'; // Название сайта по умолчанию
 export const SITE_URL = 'jetour-krasnodar.ru'; // Название сайта по умолчанию
 export const SITE_NAME = 'Автохолдинг'; // Название сайта по умолчанию
-export const LEGAL_ENTITY = 'ООО «Автохолдинг»'; // Юр лицо
+export const LEGAL_ENTITY = 'ООО «Автохолдинг Ф»'; // Юр лицо
 export const LEGAL_INN = '2308194419'; // ИНН
 export const LEGAL_CITY = 'г. Краснодар'; // Город
 export const LEGAL_CITY_WHERE = 'Краснодаре'; // где? в Городе
