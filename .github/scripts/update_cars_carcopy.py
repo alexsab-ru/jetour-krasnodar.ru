@@ -74,6 +74,8 @@ def create_file(car, filename, unique_id):
     h1 = f"{car.find('folder_id').text} {car.find('modification_id').text}"
     content += f"h1: {h1}\n"
 
+    content += f"breadcrumb: {car.find('mark_id').text} {car.find('folder_id').text} {car.find('complectation_name').text}\n"
+
     title = f"{car.find('mark_id').text} {car.find('folder_id').text} {car.find('modification_id').text} купить у официального дилера в {dealer.get('where')}"
     content += f"title: {title}\n"
 
@@ -154,19 +156,31 @@ def update_yaml(car, filename, unique_id):
     else:
         raise KeyError("'total' key not found in the YAML block.")
 
-    if 'run' in data and 'run' in car:
-        data['run'] = min(data['run'], int(car.find('run').text))
+    run_element = car.find('run')
+    if 'run' in data and run_element is not None:
+        try:
+            car_run_value = int(run_element.text)
+            data_run_value = int(data['run'])
+            data['run'] = min(data_run_value, car_run_value)
+        except ValueError:
+            # В случае, если не удается преобразовать значения в int,
+            # можно оставить текущее значение data['run'] или установить его в 0,
+            # либо выполнить другое действие по вашему выбору
+            pass
     else:
-        data['run'] = 0
-        # raise KeyError("'run' key not found in the YAML block.")
+        # Если элемент 'run' отсутствует в одном из источников,
+        # можно установить значение по умолчанию для 'run' в data или обработать этот случай иначе
+        data.setdefault('run', 0)
 
-    if 'images' in data:
-        images = [img.text for img in car.find('photos').findall('photo')]
+    images_container = car.find('photos')
+    if images_container is not None:
+        images = [img.text for img in images_container.findall('photo')]
         if len(images) > 0:
-            data['images'] += images
-            if len(data['thumbs']) < 5:
-                thumbs_files = createThumbs(images, unique_id)
-                data['thumbs'] += thumbs_files
+            data.setdefault('images', []).extend(images)
+            # Проверяем, нужно ли добавлять эскизы
+            if 'thumbs' not in data or (len(data['thumbs']) < 5):
+                thumbs_files = createThumbs(images, unique_id)  # Убедитесь, что эта функция реализована
+                data.setdefault('thumbs', []).extend(thumbs_files)
 
     # Convert the data back to a YAML string
     updated_yaml_block = yaml.safe_dump(data, default_flow_style=False, allow_unicode=True)
