@@ -1,11 +1,19 @@
-export const BASE_URL = 'https://alexsab-ru.github.io/astro-json/'; // Название сайта по умолчанию
-export const SITE_URL = 'jetour-krasnodar.ru'; // Название сайта по умолчанию
-export const SITE_NAME = 'Автохолдинг'; // Название сайта по умолчанию
-export const LEGAL_ENTITY = 'ООО «Автохолдинг Ф»'; // Юр лицо
-export const LEGAL_INN = '2308194419'; // ИНН
-export const LEGAL_CITY = 'г. Краснодар'; // Город
-export const LEGAL_CITY_WHERE = 'Краснодаре'; // где? в Городе
-export const SITE_DESCR = 'Официальный дилерский центр'; // Описание сайта по умолчанию
+// Адрес для JSON
+export const BASE_URL = 'https://alexsab-ru.github.io/astro-json/';
+// URL сайта по умолчанию
+export const SITE_URL = 'jetour-krasnodar.ru';
+// Название сайта по умолчанию
+export const SITE_NAME = 'Автохолдинг';
+// Юр лицо
+export const LEGAL_ENTITY = 'ООО «Автохолдинг Ф»';
+// ИНН
+export const LEGAL_INN = '2308194419';
+// Город
+export const LEGAL_CITY = 'г. Краснодар';
+// где? в Городе
+export const LEGAL_CITY_WHERE = 'Краснодаре';
+// Описание сайта по умолчанию
+export const SITE_DESCR = 'Официальный дилерский центр';
 
 export const BRAND = 'Jetour';
 
