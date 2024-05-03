@@ -1,24 +1,26 @@
 ---
+import {SITE_NAME, BRAND, LEGAL_CITY_WHERE, TIMER_ENDTIME} from '@/const.js';
 import Layout from '@/layouts/Layout.astro';
 import Banner from '@/components/Banner/Banner.astro';
+import Timer from '@/components/Timer/Timer.astro';
 import ModelList from '@/components/Model/ModelList.astro';
 import Model from '@/components/Model/Model.astro';
 import Callback from '@/components/Callback.astro';
 import Services from '@/components/Services.astro';
 import Contacts from '@/components/Contacts.astro';
-import {BASE_URL, SITE_URL} from '@/const'
-const models = await fetch(`${BASE_URL}${SITE_URL}/data/models.json`).then((response) => response.json());
-// import models from '@/data/models.json'
+import models from '@/data/models.json'
+import salons from '@/data/salons.json'
+const salonsPhone = salons.map((salon: any) => { return salons[0].phone }).join(', ');
 ---
 
 <Layout title="Купить Джетур у официального дилера JETOUR Автохолдинг в Краснодаре" description="Специальные цены и подарки на автомобили Джетур. Выгодные предложения на весь модельный ряд JETOUR. Забронируйте свой автомобиль прямо сейчас! ☎️ 8 (861) 992-02-02">
-	<Banner fetchURL={`${BASE_URL}${SITE_URL}/data/banners.json`} />
-	<ModelList fetchURL={`${BASE_URL}${SITE_URL}/data/models.json`} />
+	<Banner />
+	{TIMER_ENDTIME && <Timer endtime={TIMER_ENDTIME} title="До конца акции осталось" subtitle="Подзаголовок" />}
+	<ModelList />
 	{models && models.map((model: any) => model.show && <Model model={model}/>)}
 	<Callback bgUrl="/img/konkurenty.webp" />
-	<Services fetchURL={`${BASE_URL}${SITE_URL}/data/services.json`} />
+	<Services />
 	<Contacts
-		fetchURL={`${BASE_URL}${SITE_URL}/data/salons.json`}
 		mapImg="/img/map-bg.webp"
 		title="Наши контакты"
 	/>

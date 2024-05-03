@@ -1,10 +1,11 @@
 ---
 import Layout from '@/layouts/Layout.astro';
 import Map from '@/components/Map/Map.astro';
+import MapWidget from '@/components/Map/Widget.astro';
 import AutoShowModal from '@/components/AutoShowModal.astro';
 import InfoItem from '@/components/Contacts/InfoItem.astro';
-import {BASE_URL, SITE_URL, SITE_NAME, LEGAL_ENTITY, LEGAL_INN} from '@/const';
-const salons = await fetch(`${BASE_URL}${SITE_URL}/data/salons.json`).then((response) => response.json());
+import {SITE_NAME, LEGAL_ENTITY, LEGAL_INN, LINK_WIDGET_ORGNIZATION} from '@/const';
+import salons from '@/data/salons.json';
 const salon = salons[0]; //временно, наверное
 
 ---
@@ -27,7 +28,11 @@ const salon = salons[0]; //временно, наверное
 				</div>
 
 				<div class="h-[400px] md:h-auto w-full md:w-1/2 absolute md:top-0 right-0 bottom-0">
-					<Map mapImg="/img/map-bg.webp" salons={salons} class="h-full" />
+					{LINK_WIDGET_ORGNIZATION ? (
+						<MapWidget class="h-full" />
+					) : (
+						<Map mapImg="/img/map-bg.webp" salons={salons} class="h-full" />
+					)}
 				</div>
 
 			</div>
@@ -43,7 +48,7 @@ const salon = salons[0]; //временно, наверное
 	imgPosition - позиция фото right|left (по умолчанию right)
 -->
 
-<AutoShowModal 
+<AutoShowModal
 	modalShow = 20000
 	title="Здравствуйте, оставьте телефон, я&nbsp;перезвоню и&nbsp;расскажу о&nbsp;преимуществах работы"
 	modalPosition="right-bottom"
