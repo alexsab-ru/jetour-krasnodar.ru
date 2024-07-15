@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <carcopy version="2">
-  <creation-date>14 Jul 2024 23:26:10 GMT+0</creation-date>
+  <creation-date>15 Jul 2024 07:40:44 GMT+0</creation-date>
   <offers>
     <offer>
       <id>9469630</id>
       <seller-id>68896</seller-id>
       <seller-key />
-      <date>2024-07-12 13:37:14</date>
+      <date>2024-07-15 10:32:30</date>
       <valid-thru-date>12-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -26,7 +26,7 @@
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount />
+      <credit-discount>220000</credit-discount>
       <max_discount /><insurance-discount />
       <tradein-discount>500000</tradein-discount>
       <vat-invoice>no</vat-invoice>
@@ -192,7 +192,7 @@
       <id>9469631</id>
       <seller-id>68896</seller-id>
       <seller-key />
-      <date>2024-07-12 13:36:52</date>
+      <date>2024-07-15 10:32:06</date>
       <valid-thru-date>12-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -212,7 +212,7 @@
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount />
+      <credit-discount>220000</credit-discount>
       <max_discount /><insurance-discount />
       <tradein-discount>500000</tradein-discount>
       <vat-invoice>no</vat-invoice>
@@ -365,7 +365,7 @@
       <id>9469639</id>
       <seller-id>68896</seller-id>
       <seller-key />
-      <date>2024-07-01 00:00:41</date>
+      <date>2024-07-15 10:31:51</date>
       <valid-thru-date>12-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -385,9 +385,9 @@
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount>250000</credit-discount>
+      <credit-discount>220000</credit-discount>
       <max_discount>450000</max_discount><insurance-discount />
-      <tradein-discount>200000</tradein-discount>
+      <tradein-discount>500000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
       <run>0</run>
@@ -545,7 +545,7 @@
       <id>9469641</id>
       <seller-id>68896</seller-id>
       <seller-key />
-      <date>2024-07-12 13:36:29</date>
+      <date>2024-07-15 10:31:21</date>
       <valid-thru-date>12-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -565,7 +565,7 @@
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount />
+      <credit-discount>220000</credit-discount>
       <max_discount /><insurance-discount />
       <tradein-discount>500000</tradein-discount>
       <vat-invoice>no</vat-invoice>
@@ -713,7 +713,7 @@
       <id>9469642</id>
       <seller-id>68896</seller-id>
       <seller-key />
-      <date>2024-07-12 13:36:06</date>
+      <date>2024-07-15 10:31:05</date>
       <valid-thru-date>12-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -733,7 +733,7 @@
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount />
+      <credit-discount>220000</credit-discount>
       <max_discount /><insurance-discount />
       <tradein-discount>500000</tradein-discount>
       <vat-invoice>no</vat-invoice>
@@ -886,7 +886,7 @@
       <id>9469727</id>
       <seller-id>68896</seller-id>
       <seller-key />
-      <date>2024-07-12 13:35:40</date>
+      <date>2024-07-15 10:30:49</date>
       <valid-thru-date>12-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -906,7 +906,7 @@
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount />
+      <credit-discount>220000</credit-discount>
       <max_discount /><insurance-discount />
       <tradein-discount>500000</tradein-discount>
       <vat-invoice>no</vat-invoice>
@@ -1067,7 +1067,7 @@
       <id>9469729</id>
       <seller-id>68896</seller-id>
       <seller-key />
-      <date>2024-07-12 13:35:15</date>
+      <date>2024-07-15 10:30:32</date>
       <valid-thru-date>12-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -1087,7 +1087,7 @@
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount />
+      <credit-discount>220000</credit-discount>
       <max_discount /><insurance-discount />
       <tradein-discount>500000</tradein-discount>
       <vat-invoice>no</vat-invoice>
@@ -1240,7 +1240,7 @@
       <id>9469731</id>
       <seller-id>68896</seller-id>
       <seller-key />
-      <date>2024-07-12 13:34:50</date>
+      <date>2024-07-15 10:30:18</date>
       <valid-thru-date>12-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -1260,7 +1260,7 @@
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount />
+      <credit-discount>220000</credit-discount>
       <max_discount /><insurance-discount />
       <tradein-discount>500000</tradein-discount>
       <vat-invoice>no</vat-invoice>
@@ -1421,7 +1421,7 @@
       <id>9469736</id>
       <seller-id>68896</seller-id>
       <seller-key />
-      <date>2024-07-12 13:33:36</date>
+      <date>2024-07-15 10:30:00</date>
       <valid-thru-date>12-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -1441,7 +1441,7 @@
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount />
+      <credit-discount>220000</credit-discount>
       <max_discount>450000</max_discount><insurance-discount />
       <tradein-discount>350000</tradein-discount>
       <vat-invoice>no</vat-invoice>
@@ -1576,7 +1576,7 @@
       <id>9556136</id>
       <seller-id>68896</seller-id>
       <seller-key />
-      <date>2024-07-12 13:33:01</date>
+      <date>2024-07-15 10:28:45</date>
       <valid-thru-date>12-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -1596,7 +1596,7 @@
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount />
+      <credit-discount>220000</credit-discount>
       <max_discount /><insurance-discount />
       <tradein-discount>350000</tradein-discount>
       <vat-invoice>no</vat-invoice>
@@ -1767,7 +1767,7 @@ B нaличии Jetour Dashing, кoтоpый гoтoв cтать вaшим над
       <id>9556142</id>
       <seller-id>68896</seller-id>
       <seller-key />
-      <date>2024-07-05 14:25:42</date>
+      <date>2024-07-15 10:28:23</date>
       <valid-thru-date>12-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -1787,9 +1787,9 @@ B нaличии Jetour Dashing, кoтоpый гoтoв cтать вaшим над
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount>250000</credit-discount>
+      <credit-discount>220000</credit-discount>
       <max_discount /><insurance-discount />
-      <tradein-discount>200000</tradein-discount>
+      <tradein-discount>250000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
       <run>0</run>
@@ -1956,7 +1956,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <id>9556144</id>
       <seller-id>68896</seller-id>
       <seller-key />
-      <date>2024-07-12 13:28:57</date>
+      <date>2024-07-15 10:27:23</date>
       <valid-thru-date>12-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -1976,7 +1976,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount />
+      <credit-discount>220000</credit-discount>
       <max_discount /><insurance-discount />
       <tradein-discount>200000</tradein-discount>
       <vat-invoice>no</vat-invoice>
@@ -2142,7 +2142,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <id>9556166</id>
       <seller-id>68896</seller-id>
       <seller-key />
-      <date>2024-07-12 13:31:34</date>
+      <date>2024-07-15 10:27:05</date>
       <valid-thru-date>12-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -2162,7 +2162,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount />
+      <credit-discount>220000</credit-discount>
       <max_discount /><insurance-discount />
       <tradein-discount>250000</tradein-discount>
       <vat-invoice>no</vat-invoice>
@@ -3139,7 +3139,7 @@ Jetour T2 выделяется своей превосходной проход�
       <id>9695409</id>
       <seller-id>68896</seller-id>
       <seller-key />
-      <date>2024-07-04 14:26:38</date>
+      <date>2024-07-15 10:26:33</date>
       <valid-thru-date>12-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -3159,7 +3159,7 @@ Jetour T2 выделяется своей превосходной проход�
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount />
+      <credit-discount>220000</credit-discount>
       <max_discount /><insurance-discount />
       <tradein-discount>350000</tradein-discount>
       <vat-invoice>no</vat-invoice>
@@ -3335,7 +3335,7 @@ Jetour T2 выделяется своей превосходной проход�
       <id>9695418</id>
       <seller-id>68896</seller-id>
       <seller-key />
-      <date>2024-07-04 14:25:50</date>
+      <date>2024-07-15 10:26:16</date>
       <valid-thru-date>12-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -3355,7 +3355,7 @@ Jetour T2 выделяется своей превосходной проход�
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount />
+      <credit-discount>220000</credit-discount>
       <max_discount /><insurance-discount />
       <tradein-discount>350000</tradein-discount>
       <vat-invoice>no</vat-invoice>
@@ -3536,7 +3536,7 @@ Jetour T2 выделяется своей превосходной проход�
       <id>9695424</id>
       <seller-id>68896</seller-id>
       <seller-key />
-      <date>2024-07-08 13:30:23</date>
+      <date>2024-07-15 10:26:02</date>
       <valid-thru-date>12-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -3556,7 +3556,7 @@ Jetour T2 выделяется своей превосходной проход�
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount />
+      <credit-discount>220000</credit-discount>
       <max_discount /><insurance-discount />
       <tradein-discount>350000</tradein-discount>
       <vat-invoice>no</vat-invoice>
@@ -3740,7 +3740,7 @@ Jetour T2 выделяется своей превосходной проход�
       <id>9695428</id>
       <seller-id>68896</seller-id>
       <seller-key />
-      <date>2024-07-05 11:27:02</date>
+      <date>2024-07-15 10:25:44</date>
       <valid-thru-date>12-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -3760,7 +3760,7 @@ Jetour T2 выделяется своей превосходной проход�
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount />
+      <credit-discount>220000</credit-discount>
       <max_discount /><insurance-discount />
       <tradein-discount>250000</tradein-discount>
       <vat-invoice>no</vat-invoice>
@@ -4151,7 +4151,7 @@ Jetour T2 выделяется своей превосходной проход�
       <id>9696166</id>
       <seller-id>68896</seller-id>
       <seller-key />
-      <date>2024-07-05 11:26:48</date>
+      <date>2024-07-15 10:25:26</date>
       <valid-thru-date>12-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -4171,7 +4171,7 @@ Jetour T2 выделяется своей превосходной проход�
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount />
+      <credit-discount>220000</credit-discount>
       <max_discount /><insurance-discount />
       <tradein-discount>250000</tradein-discount>
       <vat-invoice>no</vat-invoice>
@@ -4333,7 +4333,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <id>9696168</id>
       <seller-id>68896</seller-id>
       <seller-key />
-      <date>2024-07-05 11:26:28</date>
+      <date>2024-07-15 10:25:11</date>
       <valid-thru-date>12-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -4353,7 +4353,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount />
+      <credit-discount>220000</credit-discount>
       <max_discount /><insurance-discount />
       <tradein-discount>250000</tradein-discount>
       <vat-invoice>no</vat-invoice>
@@ -4520,7 +4520,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <id>9696171</id>
       <seller-id>68896</seller-id>
       <seller-key />
-      <date>2024-07-05 11:26:08</date>
+      <date>2024-07-15 10:24:30</date>
       <valid-thru-date>12-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -4540,7 +4540,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount />
+      <credit-discount>220000</credit-discount>
       <max_discount /><insurance-discount />
       <tradein-discount>250000</tradein-discount>
       <vat-invoice>no</vat-invoice>
@@ -4719,7 +4719,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <id>9696177</id>
       <seller-id>68896</seller-id>
       <seller-key />
-      <date>2024-07-05 11:13:05</date>
+      <date>2024-07-15 10:24:11</date>
       <valid-thru-date>12-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -4739,7 +4739,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount />
+      <credit-discount>220000</credit-discount>
       <max_discount /><insurance-discount />
       <tradein-discount>350000</tradein-discount>
       <vat-invoice>no</vat-invoice>
@@ -4905,7 +4905,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <id>9696178</id>
       <seller-id>68896</seller-id>
       <seller-key />
-      <date>2024-07-08 13:32:39</date>
+      <date>2024-07-15 10:23:53</date>
       <valid-thru-date>12-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -4925,7 +4925,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount />
+      <credit-discount>220000</credit-discount>
       <max_discount /><insurance-discount />
       <tradein-discount>350000</tradein-discount>
       <vat-invoice>no</vat-invoice>
@@ -5094,7 +5094,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <id>9696179</id>
       <seller-id>68896</seller-id>
       <seller-key />
-      <date>2024-07-05 17:43:26</date>
+      <date>2024-07-15 10:23:35</date>
       <valid-thru-date>12-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -5114,7 +5114,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount />
+      <credit-discount>220000</credit-discount>
       <max_discount /><insurance-discount />
       <tradein-discount>350000</tradein-discount>
       <vat-invoice>no</vat-invoice>
@@ -5305,7 +5305,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <id>9696182</id>
       <seller-id>68896</seller-id>
       <seller-key />
-      <date>2024-07-05 11:29:02</date>
+      <date>2024-07-15 10:22:41</date>
       <valid-thru-date>12-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -5325,7 +5325,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount />
+      <credit-discount>220000</credit-discount>
       <max_discount /><insurance-discount />
       <tradein-discount>250000</tradein-discount>
       <vat-invoice>no</vat-invoice>
@@ -5484,7 +5484,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <id>9699381</id>
       <seller-id>68896</seller-id>
       <seller-key />
-      <date>2024-07-08 13:28:23</date>
+      <date>2024-07-15 10:22:19</date>
       <valid-thru-date>12-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -5504,7 +5504,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount />
+      <credit-discount>220000</credit-discount>
       <max_discount /><insurance-discount />
       <tradein-discount>350000</tradein-discount>
       <vat-invoice>no</vat-invoice>
@@ -5681,7 +5681,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <id>9699385</id>
       <seller-id>68896</seller-id>
       <seller-key />
-      <date>2024-07-08 13:33:03</date>
+      <date>2024-07-15 10:21:44</date>
       <valid-thru-date>12-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -5701,7 +5701,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount />
+      <credit-discount>220000</credit-discount>
       <max_discount /><insurance-discount />
       <tradein-discount>350000</tradein-discount>
       <vat-invoice>no</vat-invoice>
@@ -5870,7 +5870,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <id>9699389</id>
       <seller-id>68896</seller-id>
       <seller-key />
-      <date>2024-07-08 14:17:21</date>
+      <date>2024-07-15 10:21:25</date>
       <valid-thru-date>12-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -5890,7 +5890,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <old_price_currency />
       <discount-price />
       <discount-price-reason />
-      <credit-discount />
+      <credit-discount>220000</credit-discount>
       <max_discount /><insurance-discount />
       <tradein-discount>250000</tradein-discount>
       <vat-invoice>no</vat-invoice>
