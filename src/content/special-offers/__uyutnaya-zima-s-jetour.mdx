@@ -9,7 +9,9 @@ description: "«Jetour Автохолдинг» в Краснодаре анон
 export const DateTo = "31.01.2024"
 
 import Button from '@/components/Button/Button.astro';
-// import url from Astro;
+import { SITE_NAME, PHONE } from '@/const';
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
 <b>
 «Jetour Автохолдинг» в Краснодаре анонсирует специальное сервисное предложение «Уютная Зима 2024» для всех владельцев автомобилей бренда Jetour.

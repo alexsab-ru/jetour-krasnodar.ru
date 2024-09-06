@@ -10,7 +10,9 @@ description: "Весеннее обновление с Jetour - это выго�
 export const DateTo = "31.03.2024"
 
 import Button from '@/components/Button/Button.astro';
-// import url from Astro;
+import { SITE_NAME, PHONE } from '@/const';
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
 <picture>
     <source media="(min-width: 1025px)" srcset="/img/specials/vesennee-obnovlenie-s-jetour/vesennee-obnovlenie-s-jetour-1920x1080.webp" />
