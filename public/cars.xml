@@ -5,7 +5,7 @@
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -25,7 +25,7 @@
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>500000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -185,13 +185,13 @@
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3519900</priceWithDiscount><sale_price>3519900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x90-plus-16-amt-190-лс-comfort-черный-2023/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3519900</priceWithDiscount><sale_price>3519900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x90-plus-16-amt-190-лс-comfort-черный-2023/</url></offer>
     <offer>
       <id>9469631</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -211,7 +211,7 @@
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>500000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -358,13 +358,13 @@
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3399900</priceWithDiscount><sale_price>3399900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x90-plus-16-amt-190-лс-comfort-серый-2023/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3399900</priceWithDiscount><sale_price>3399900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x90-plus-16-amt-190-лс-comfort-серый-2023/</url></offer>
     <offer>
       <id>9469639</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -384,7 +384,7 @@
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount>450000</max_discount><insurance-discount />
+      <insurance-discount />
       <tradein-discount>500000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -538,13 +538,13 @@
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>2949900</priceWithDiscount><sale_price>2949900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x90-plus-16-amt-190-лс-comfort-синий-2023/</url></offer>
+    <max_discount>450000</max_discount><priceWithDiscount>2949900</priceWithDiscount><sale_price>2949900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x90-plus-16-amt-190-лс-comfort-синий-2023/</url></offer>
     <offer>
       <id>9469641</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -564,7 +564,7 @@
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>500000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -706,13 +706,13 @@
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3519900</priceWithDiscount><sale_price>3519900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x90-plus-16-amt-190-лс-comfort-белый-2023/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3519900</priceWithDiscount><sale_price>3519900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x90-plus-16-amt-190-лс-comfort-белый-2023/</url></offer>
     <offer>
       <id>9469642</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -732,7 +732,7 @@
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>500000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -879,13 +879,13 @@
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3399900</priceWithDiscount><sale_price>3399900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x90-plus-16-amt-190-лс-comfort-серый-2023/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3399900</priceWithDiscount><sale_price>3399900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x90-plus-16-amt-190-лс-comfort-серый-2023/</url></offer>
     <offer>
       <id>9469727</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -905,7 +905,7 @@
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>500000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -1060,13 +1060,13 @@
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3519900</priceWithDiscount><sale_price>3519900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x90-plus-16-amt-190-лс-comfort-черный-2023/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3519900</priceWithDiscount><sale_price>3519900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x90-plus-16-amt-190-лс-comfort-черный-2023/</url></offer>
     <offer>
       <id>9469729</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -1086,7 +1086,7 @@
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>500000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -1233,13 +1233,13 @@
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3519900</priceWithDiscount><sale_price>3519900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x90-plus-16-amt-190-лс-comfort-серый-2023/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3519900</priceWithDiscount><sale_price>3519900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x90-plus-16-amt-190-лс-comfort-серый-2023/</url></offer>
     <offer>
       <id>9469731</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -1259,7 +1259,7 @@
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>500000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -1414,13 +1414,13 @@
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3519900</priceWithDiscount><sale_price>3519900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x90-plus-16-amt-190-лс-comfort-черный-2023/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3519900</priceWithDiscount><sale_price>3519900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x90-plus-16-amt-190-лс-comfort-черный-2023/</url></offer>
     <offer>
       <id>9469736</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -1440,7 +1440,7 @@
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount>450000</max_discount><insurance-discount />
+      <insurance-discount />
       <tradein-discount>350000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -1569,13 +1569,13 @@
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>2389900</priceWithDiscount><sale_price>2389900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-dashing-15-amt-147-лс-comfort-серый-2023/</url></offer>
+    <max_discount>450000</max_discount><priceWithDiscount>2389900</priceWithDiscount><sale_price>2389900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-dashing-15-amt-147-лс-comfort-серый-2023/</url></offer>
     <offer>
       <id>9556136</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -1595,7 +1595,7 @@
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>350000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -1760,13 +1760,13 @@ B нaличии Jetour Dashing, кoтоpый гoтoв cтать вaшим над
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3189900</priceWithDiscount><sale_price>3189900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-dashing-16-amt-190-лс-luxury-зеленый-2023/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3189900</priceWithDiscount><sale_price>3189900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-dashing-16-amt-190-лс-luxury-зеленый-2023/</url></offer>
     <offer>
       <id>9556142</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -1786,7 +1786,7 @@ B нaличии Jetour Dashing, кoтоpый гoтoв cтать вaшим над
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>250000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -1949,13 +1949,13 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3299900</priceWithDiscount><sale_price>3299900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-luxury-белый-2023/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3299900</priceWithDiscount><sale_price>3299900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-luxury-белый-2023/</url></offer>
     <offer>
       <id>9556144</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -1975,7 +1975,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>200000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -2135,13 +2135,13 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3299900</priceWithDiscount><sale_price>3299900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-luxury-белый-2023/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3299900</priceWithDiscount><sale_price>3299900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-luxury-белый-2023/</url></offer>
     <offer>
       <id>9556166</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -2161,7 +2161,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>250000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -2314,13 +2314,13 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3299900</priceWithDiscount><sale_price>3299900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-luxury-серый-2023/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3299900</priceWithDiscount><sale_price>3299900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-luxury-серый-2023/</url></offer>
     <offer>
       <id>9623890</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -2340,7 +2340,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <discount-price />
       <discount-price-reason />
       <credit-discount />
-      <max_discount>250000</max_discount><insurance-discount />
+      <insurance-discount />
       <tradein-discount>250000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -2523,13 +2523,13 @@ Jetour T2 выделяется своей превосходной проход�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3749000</priceWithDiscount><sale_price>3749000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-t2-20-amt-245-лс-4wd-expedition-черный-2024/</url></offer>
+    <max_discount>250000</max_discount><priceWithDiscount>3749000</priceWithDiscount><sale_price>3749000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-t2-20-amt-245-лс-4wd-expedition-черный-2024/</url></offer>
     <offer>
       <id>9623891</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -2549,7 +2549,7 @@ Jetour T2 выделяется своей превосходной проход�
       <discount-price />
       <discount-price-reason />
       <credit-discount />
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>250000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -2702,13 +2702,13 @@ Jetour T2 выделяется своей превосходной проход�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3990000</priceWithDiscount><sale_price>3990000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-t2-20-amt-245-лс-4wd-expedition-коричневый-2024/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3990000</priceWithDiscount><sale_price>3990000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-t2-20-amt-245-лс-4wd-expedition-коричневый-2024/</url></offer>
     <offer>
       <id>9695401</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -2728,7 +2728,7 @@ Jetour T2 выделяется своей превосходной проход�
       <discount-price />
       <discount-price-reason />
       <credit-discount />
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>100000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -2917,13 +2917,13 @@ Jetour T2 выделяется своей превосходной проход�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3759000</priceWithDiscount><sale_price>3759000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-t2-20-amt-245-лс-4wd-voyage-серебряный-2024/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3759000</priceWithDiscount><sale_price>3759000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-t2-20-amt-245-лс-4wd-voyage-серебряный-2024/</url></offer>
     <offer>
       <id>9695404</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -2943,7 +2943,7 @@ Jetour T2 выделяется своей превосходной проход�
       <discount-price />
       <discount-price-reason />
       <credit-discount />
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>100000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -3132,13 +3132,13 @@ Jetour T2 выделяется своей превосходной проход�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3759000</priceWithDiscount><sale_price>3759000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-t2-20-amt-245-лс-4wd-voyage-серебряный-2024/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3759000</priceWithDiscount><sale_price>3759000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-t2-20-amt-245-лс-4wd-voyage-серебряный-2024/</url></offer>
     <offer>
       <id>9695409</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -3158,7 +3158,7 @@ Jetour T2 выделяется своей превосходной проход�
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>350000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -3328,13 +3328,13 @@ Jetour T2 выделяется своей превосходной проход�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>2979900</priceWithDiscount><sale_price>2979900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-dashing-15-amt-147-лс-luxury-белый-2023/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>2979900</priceWithDiscount><sale_price>2979900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-dashing-15-amt-147-лс-luxury-белый-2023/</url></offer>
     <offer>
       <id>9695418</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -3354,7 +3354,7 @@ Jetour T2 выделяется своей превосходной проход�
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>350000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -3529,13 +3529,13 @@ Jetour T2 выделяется своей превосходной проход�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>2979000</priceWithDiscount><sale_price>2979000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-dashing-15-amt-147-лс-luxury-черный-2023/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>2979000</priceWithDiscount><sale_price>2979000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-dashing-15-amt-147-лс-luxury-черный-2023/</url></offer>
     <offer>
       <id>9695424</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -3555,7 +3555,7 @@ Jetour T2 выделяется своей превосходной проход�
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>350000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -3733,13 +3733,13 @@ Jetour T2 выделяется своей превосходной проход�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3189000</priceWithDiscount><sale_price>3189000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-dashing-16-amt-190-лс-luxury-черный-2023/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3189000</priceWithDiscount><sale_price>3189000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-dashing-16-amt-190-лс-luxury-черный-2023/</url></offer>
     <offer>
       <id>9695428</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -3759,7 +3759,7 @@ Jetour T2 выделяется своей превосходной проход�
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>250000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -3940,13 +3940,13 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3299000</priceWithDiscount><sale_price>3299000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-luxury-серый-2024/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3299000</priceWithDiscount><sale_price>3299000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-luxury-серый-2024/</url></offer>
     <offer>
       <id>9696152</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -3966,7 +3966,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <discount-price />
       <discount-price-reason />
       <credit-discount />
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount />
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -4144,13 +4144,13 @@ Jetour T2 выделяется своей превосходной проход�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3999000</priceWithDiscount><sale_price>3999000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-t2-20-amt-245-лс-4wd-expedition-черный-2024/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3999000</priceWithDiscount><sale_price>3999000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-t2-20-amt-245-лс-4wd-expedition-черный-2024/</url></offer>
     <offer>
       <id>9696166</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -4170,7 +4170,7 @@ Jetour T2 выделяется своей превосходной проход�
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>250000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -4326,13 +4326,13 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3299000</priceWithDiscount><sale_price>3299000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-luxury-белый-2024/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3299000</priceWithDiscount><sale_price>3299000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-luxury-белый-2024/</url></offer>
     <offer>
       <id>9696168</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -4352,7 +4352,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>250000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -4513,13 +4513,13 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3299000</priceWithDiscount><sale_price>3299000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-luxury-серый-2024/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3299000</priceWithDiscount><sale_price>3299000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-luxury-серый-2024/</url></offer>
     <offer>
       <id>9696171</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -4539,7 +4539,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>250000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -4712,13 +4712,13 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3299000</priceWithDiscount><sale_price>3299000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-luxury-белый-2024/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3299000</priceWithDiscount><sale_price>3299000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-luxury-белый-2024/</url></offer>
     <offer>
       <id>9696177</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -4738,7 +4738,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>350000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -4898,13 +4898,13 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>2979900</priceWithDiscount><sale_price>2979900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-dashing-15-amt-147-лс-luxury-серый-2023/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>2979900</priceWithDiscount><sale_price>2979900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-dashing-15-amt-147-лс-luxury-серый-2023/</url></offer>
     <offer>
       <id>9696178</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -4924,7 +4924,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>350000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -5087,13 +5087,13 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3189900</priceWithDiscount><sale_price>3189900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-dashing-16-amt-190-лс-luxury-серый-2023/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3189900</priceWithDiscount><sale_price>3189900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-dashing-16-amt-190-лс-luxury-серый-2023/</url></offer>
     <offer>
       <id>9696179</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -5113,7 +5113,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>350000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -5298,13 +5298,13 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>2979900</priceWithDiscount><sale_price>2979900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-dashing-15-amt-147-лс-luxury-черный-2023/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>2979900</priceWithDiscount><sale_price>2979900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-dashing-15-amt-147-лс-luxury-черный-2023/</url></offer>
     <offer>
       <id>9696182</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -5324,7 +5324,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>250000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -5477,13 +5477,13 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3299000</priceWithDiscount><sale_price>3299000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-luxury-зеленый-2024/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3299000</priceWithDiscount><sale_price>3299000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-luxury-зеленый-2024/</url></offer>
     <offer>
       <id>9699381</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -5503,7 +5503,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>350000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -5674,13 +5674,13 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3189000</priceWithDiscount><sale_price>3189000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-dashing-16-amt-190-лс-luxury-черный-2023/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3189000</priceWithDiscount><sale_price>3189000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-dashing-16-amt-190-лс-luxury-черный-2023/</url></offer>
     <offer>
       <id>9699385</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -5700,7 +5700,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>350000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -5863,13 +5863,13 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3189900</priceWithDiscount><sale_price>3189900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-dashing-16-amt-190-лс-luxury-серый-2023/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3189900</priceWithDiscount><sale_price>3189900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-dashing-16-amt-190-лс-luxury-серый-2023/</url></offer>
     <offer>
       <id>9699389</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -5889,7 +5889,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>250000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -6045,13 +6045,13 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3299000</priceWithDiscount><sale_price>3299000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-luxury-черный-2024/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3299000</priceWithDiscount><sale_price>3299000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-luxury-черный-2024/</url></offer>
     <offer>
       <id>9710335</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -6071,7 +6071,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>350000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -6240,13 +6240,13 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>2839900</priceWithDiscount><sale_price>2839900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-dashing-15-amt-147-лс-elite-белый-2024/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>2839900</priceWithDiscount><sale_price>2839900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-dashing-15-amt-147-лс-elite-белый-2024/</url></offer>
     <offer>
       <id>9710337</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -6266,7 +6266,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>350000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -6444,13 +6444,13 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>2839900</priceWithDiscount><sale_price>2839900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-dashing-15-amt-147-лс-elite-серый-2024/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>2839900</priceWithDiscount><sale_price>2839900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-dashing-15-amt-147-лс-elite-серый-2024/</url></offer>
     <offer>
       <id>9710362</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -6470,7 +6470,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>250000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -6634,13 +6634,13 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3299900</priceWithDiscount><sale_price>3299900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-luxury-серебряный-2024/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3299900</priceWithDiscount><sale_price>3299900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-luxury-серебряный-2024/</url></offer>
     <offer>
       <id>9710363</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -6660,7 +6660,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>350000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -6824,13 +6824,13 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3189900</priceWithDiscount><sale_price>3189900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-dashing-16-amt-190-лс-luxury-зеленый-2024/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3189900</priceWithDiscount><sale_price>3189900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-dashing-16-amt-190-лс-luxury-зеленый-2024/</url></offer>
     <offer>
       <id>9710370</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -6850,7 +6850,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>250000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -6995,13 +6995,13 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3299900</priceWithDiscount><sale_price>3299900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-luxury-белый-2024/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3299900</priceWithDiscount><sale_price>3299900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-luxury-белый-2024/</url></offer>
     <offer>
       <id>9710580</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -7021,7 +7021,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>250000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -7161,13 +7161,13 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>2999900</priceWithDiscount><sale_price>2999900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-comfort-белый-2024/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>2999900</priceWithDiscount><sale_price>2999900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-comfort-белый-2024/</url></offer>
     <offer>
       <id>9722837</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -7187,7 +7187,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <discount-price />
       <discount-price-reason />
       <credit-discount />
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount />
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -7356,13 +7356,13 @@ Jetour T2 выделяется своей превосходной проход�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3999000</priceWithDiscount><sale_price>3999000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-t2-20-amt-245-лс-4wd-expedition-серебряный-2024/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3999000</priceWithDiscount><sale_price>3999000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-t2-20-amt-245-лс-4wd-expedition-серебряный-2024/</url></offer>
     <offer>
       <id>9722838</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -7382,7 +7382,7 @@ Jetour T2 выделяется своей превосходной проход�
       <discount-price />
       <discount-price-reason />
       <credit-discount />
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount />
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -7558,13 +7558,13 @@ Jetour T2 выделяется своей превосходной проход�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3999000</priceWithDiscount><sale_price>3999000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-t2-20-amt-245-лс-4wd-expedition-коричневый-2024/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3999000</priceWithDiscount><sale_price>3999000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-t2-20-amt-245-лс-4wd-expedition-коричневый-2024/</url></offer>
     <offer>
       <id>9722839</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -7584,7 +7584,7 @@ Jetour T2 выделяется своей превосходной проход�
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>250000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -7722,13 +7722,13 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>2999900</priceWithDiscount><sale_price>2999900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-comfort-синий-2024/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>2999900</priceWithDiscount><sale_price>2999900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-comfort-синий-2024/</url></offer>
     <offer>
       <id>9722840</id>
       <seller-id>68896</seller-id>
       <seller-key />
       <date>2025-01-01 02:20:04</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -7748,7 +7748,7 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <discount-price />
       <discount-price-reason />
       <credit-discount>220000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount />
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -7893,6 +7893,6 @@ B нaличии Jetour X70 Рlus, кoтopый гoтов cтать вaшим нa�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>3299900</priceWithDiscount><sale_price>3299900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-luxury-черный-2024/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>3299900</priceWithDiscount><sale_price>3299900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x70-plus-16-amt-190-лс-luxury-черный-2024/</url></offer>
   </offers>
 </carcopy>
