@@ -13,7 +13,7 @@ import { LEGAL_CITY_WHERE, LEGAL_ENTITY, TIMER } from '@/const';
 import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
 import Timer from '@/components/Timer/Timer.astro';
 
-export const DateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
+export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
 export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
 export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
 
@@ -46,7 +46,7 @@ export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
     }
 }">
 
-	<div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+	<div class="grid grid-cols-2 md:grid-cols-6 gap-4">
         <template x-for="model in models">
             <div 
                 class="cursor-pointer opacity-50 transition-opacity duration-300 hover:opacity-80"
