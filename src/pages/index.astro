@@ -24,7 +24,7 @@ import SeoText from '@/components/Seo/Index.astro';
 	<Banner />
 	{MARQUEE.show && <Morquee marquee={ MARQUEE } />}
 	<PageTitle />
-	{TIMER_ENDTIME && <Timer endtime={TIMER_ENDTIME} title="До конца акции осталось" subtitle="Подзаголовок" />}
+	{false && TIMER_ENDTIME && <Timer endtime={TIMER_ENDTIME} title="До конца акции осталось" subtitle="Подзаголовок" />}
 	<ModelList />
 	<LatestPosts collectionName="special-offers" title="Специальные предложения" id="specials" class="bg-gray-100" />
 	<Callback bgUrl="/img/konkurenty.webp" />
