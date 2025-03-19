@@ -3282,8 +3282,8 @@ JЕТОUR – СОЗДАН ДЛЯ ПУТЕШЕСТВИЙ
 <image>https://img.carcopy.ru/18c6/a4cc/1333/fcf4/29b8/2e0c/e053/9cd6/7745/3b4e/18c6a4cc1333fcf429b82e0ce0539cd677453b4e_1600x0.jpg?s=164228</image>
 <image>https://img.carcopy.ru/ed42/1c25/7726/1be6/ca17/7ab2/2ff5/7eb7/e450/c5cf/ed421c2577261be6ca177ab22ff57eb7e450c5cf_1600x0.jpg?s=140513</image>
 </images>
- <credit_discount>220000</credit_discount> <insurance_discount>50000</insurance_discount> <tradein_discount>100000</tradein_discount> <discount_price>
-    <price>3879000</price>
+ <credit_discount>500000</credit_discount> <insurance_discount>50000</insurance_discount> <tradein_discount>100000</tradein_discount> <discount_price>
+    <price>3649000</price>
     <action>show</action>
   </discount_price>
   <description>НАЧАЛАСЬ ВЕСЕННЯЯ РАСПРОДАЖА!
@@ -3482,8 +3482,8 @@ o	Подогрев передних форсунок стеклоомывате�
 <image>https://img.carcopy.ru/cae8/ed1d/e076/524b/38d5/0ec5/6ff2/8035/8239/80bf/cae8ed1de076524b38d50ec56ff28035823980bf_1600x0.jpg?s=237519</image>
 <image>https://img.carcopy.ru/7e3d/e8aa/866b/063e/7c29/fa8b/d428/014c/404f/87f3/7e3de8aa866b063e7c29fa8bd428014c404f87f3_1600x0.jpg?s=235458</image>
 </images>
- <credit_discount>400000</credit_discount> <insurance_discount>50000</insurance_discount> <tradein_discount>100000</tradein_discount> <discount_price>
-    <price>3879000</price>
+ <credit_discount>500000</credit_discount> <insurance_discount>50000</insurance_discount> <tradein_discount>100000</tradein_discount> <discount_price>
+    <price>3649000</price>
     <action>show</action>
   </discount_price>
   <description>НАЧАЛАСЬ ВЕСЕННЯЯ РАСПРОДАЖА!
@@ -3743,7 +3743,7 @@ BЫГОДA до 1 000 000 P.!
 <image>https://img.carcopy.ru/8e47/5c3c/3fd7/e338/199d/8231/0bd9/bc0f/b417/0f68/8e475c3c3fd7e338199d82310bd9bc0fb4170f68_1600x0.jpg?s=200103</image>
 </images>
  <credit_discount>400000</credit_discount> <insurance_discount>50000</insurance_discount> <tradein_discount>200000</tradein_discount> <discount_price>
-    <price>2529900</price>
+    <price>2399900</price>
     <action>show</action>
   </discount_price>
   <description>НАЧАЛАСЬ ВЕСЕННЯЯ РАСПРОДАЖА!
@@ -3961,7 +3961,7 @@ ________
 <image>https://img.carcopy.ru/99c3/0ea0/f775/52f6/15f1/e97b/5c79/53ff/4b92/dbd0/99c30ea0f77552f615f1e97b5c7953ff4b92dbd0_1600x0.jpg?s=101478</image>
 </images>
  <credit_discount>400000</credit_discount> <insurance_discount>50000</insurance_discount> <tradein_discount>200000</tradein_discount> <discount_price>
-    <price>2529900</price>
+    <price>2399900</price>
     <action>show</action>
   </discount_price>
   <description>НАЧАЛАСЬ ВЕСЕННЯЯ РАСПРОДАЖА!
@@ -4167,7 +4167,7 @@ ________
 <image>https://img.carcopy.ru/7ebe/1c7b/f115/4ab4/cf02/fb44/fc6c/ae17/74a5/d815/7ebe1c7bf1154ab4cf02fb44fc6cae1774a5d815_1600x0.jpg?s=238932</image>
 </images>
  <credit_discount>400000</credit_discount> <insurance_discount>50000</insurance_discount> <tradein_discount>200000</tradein_discount> <discount_price>
-    <price>2529900</price>
+    <price>2399900</price>
     <action>show</action>
   </discount_price>
   <description>НАЧАЛАСЬ ВЕСЕННЯЯ РАСПРОДАЖА!
@@ -4370,7 +4370,7 @@ ________
 <image>https://img.carcopy.ru/f471/3277/9d1b/e5e1/0835/e707/96d7/0a16/7c22/cb61/f47132779d1be5e10835e70796d70a167c22cb61_1600x0.jpg?s=231466</image>
 </images>
  <credit_discount>400000</credit_discount> <insurance_discount>50000</insurance_discount> <tradein_discount>200000</tradein_discount> <discount_price>
-    <price>2529900</price>
+    <price>2399900</price>
     <action>show</action>
   </discount_price>
   <description>НАЧАЛАСЬ ВЕСЕННЯЯ РАСПРОДАЖА!
@@ -4590,7 +4590,7 @@ ________
 <image>https://img.carcopy.ru/99c3/0ea0/f775/52f6/15f1/e97b/5c79/53ff/4b92/dbd0/99c30ea0f77552f615f1e97b5c7953ff4b92dbd0_1600x0.jpg?s=101478</image>
 </images>
  <credit_discount>400000</credit_discount> <insurance_discount>50000</insurance_discount> <tradein_discount>200000</tradein_discount> <discount_price>
-    <price>2529900</price>
+    <price>2399900</price>
     <action>show</action>
   </discount_price>
   <description>НАЧАЛАСЬ ВЕСЕННЯЯ РАСПРОДАЖА!
@@ -4809,7 +4809,7 @@ ________
 <image>https://img.carcopy.ru/99c3/0ea0/f775/52f6/15f1/e97b/5c79/53ff/4b92/dbd0/99c30ea0f77552f615f1e97b5c7953ff4b92dbd0_1600x0.jpg?s=101478</image>
 </images>
  <credit_discount>400000</credit_discount> <insurance_discount>50000</insurance_discount> <tradein_discount>200000</tradein_discount> <discount_price>
-    <price>2529900</price>
+    <price>2399900</price>
     <action>show</action>
   </discount_price>
   <description>НАЧАЛАСЬ ВЕСЕННЯЯ РАСПРОДАЖА!
@@ -5028,7 +5028,7 @@ ________
 <image>https://img.carcopy.ru/99c3/0ea0/f775/52f6/15f1/e97b/5c79/53ff/4b92/dbd0/99c30ea0f77552f615f1e97b5c7953ff4b92dbd0_1600x0.jpg?s=101478</image>
 </images>
  <credit_discount>400000</credit_discount> <insurance_discount>50000</insurance_discount> <tradein_discount>200000</tradein_discount> <discount_price>
-    <price>2529900</price>
+    <price>2399900</price>
     <action>show</action>
   </discount_price>
   <description>НАЧАЛАСЬ ВЕСЕННЯЯ РАСПРОДАЖА!
@@ -5247,7 +5247,7 @@ ________
 <image>https://img.carcopy.ru/99c3/0ea0/f775/52f6/15f1/e97b/5c79/53ff/4b92/dbd0/99c30ea0f77552f615f1e97b5c7953ff4b92dbd0_1600x0.jpg?s=101478</image>
 </images>
  <credit_discount>400000</credit_discount> <insurance_discount>50000</insurance_discount> <tradein_discount>200000</tradein_discount> <discount_price>
-    <price>2529900</price>
+    <price>2399900</price>
     <action>show</action>
   </discount_price>
   <description>НАЧАЛАСЬ ВЕСЕННЯЯ РАСПРОДАЖА!
@@ -5445,16 +5445,16 @@ ________
     </contact>
   </contact_info>
 <images>
+<image>https://img.carcopy.ru/18a6/a534/b6cd/1592/d75e/365a/bc4a/7958/d726/52b6/18a6a534b6cd1592d75e365abc4a7958d72652b6_1600x0.jpg?s=181051</image>
 <image>https://img.carcopy.ru/ac31/6e29/2ac6/c4ad/4781/49b4/9065/ee8b/37ab/5cc9/ac316e292ac6c4ad478149b49065ee8b37ab5cc9_1600x0.jpg?s=181040</image>
 <image>https://img.carcopy.ru/2bed/dca7/c645/2a77/9629/bac8/f0d4/9e3f/2bde/0625/2beddca7c6452a779629bac8f0d49e3f2bde0625_1600x0.jpg?s=171057</image>
-<image>https://img.carcopy.ru/18a6/a534/b6cd/1592/d75e/365a/bc4a/7958/d726/52b6/18a6a534b6cd1592d75e365abc4a7958d72652b6_1600x0.jpg?s=181051</image>
 <image>https://img.carcopy.ru/c033/82a3/17dc/f6e9/0112/469b/8b3c/fa35/0b5f/b83b/c03382a317dcf6e90112469b8b3cfa350b5fb83b_1600x0.jpg?s=133147</image>
 <image>https://img.carcopy.ru/49a7/a4b6/e4b1/eac9/234f/632b/4662/d954/4e85/3e8c/49a7a4b6e4b1eac9234f632b4662d9544e853e8c_1600x0.jpg?s=159878</image>
 <image>https://img.carcopy.ru/e1b8/195d/a931/770f/896e/c7e2/d8d4/7134/87d3/2ac7/e1b8195da931770f896ec7e2d8d4713487d32ac7_1600x0.jpg?s=129632</image>
 <image>https://img.carcopy.ru/dc7b/03cb/85d0/7b08/91b0/7156/7dd1/fac9/2dd8/d398/dc7b03cb85d07b0891b071567dd1fac92dd8d398_1600x0.jpg?s=187086</image>
 </images>
  <credit_discount>220000</credit_discount> <insurance_discount>50000</insurance_discount> <tradein_discount>250000</tradein_discount> <discount_price>
-    <price>2759900</price>
+    <price>2579900</price>
     <action>show</action>
   </discount_price>
   <description>НАЧАЛАСЬ ВЕСЕННЯЯ РАСПРОДАЖА!
@@ -5518,7 +5518,7 @@ JЕТОUR – СОЗДАН ДЛЯ ПУТЕШЕСТВИЙ
 
 
 #Jetour #x90plus #джетур # джитур #икс90 #икс90плюс 
-[iieoiea:72410]</description>
+[iieoiea:63080]</description>
 <max_discount>0</max_discount><priceWithDiscount>3479900</priceWithDiscount><sale_price>3479900</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x90-plus-16-amt-190-лс-comfort-серый-2023/</url></car>
 <car>
   <unique_id>9950952</unique_id>
@@ -5590,8 +5590,8 @@ JЕТОUR – СОЗДАН ДЛЯ ПУТЕШЕСТВИЙ
 <image>https://img.carcopy.ru/4d1c/5f79/d716/d578/8a09/a912/9234/63f4/8d63/1190/4d1c5f79d716d5788a09a912923463f48d631190_1600x0.jpg?s=148393</image>
 <image>https://img.carcopy.ru/0f33/a7d8/f071/a0f6/633a/b65b/7ff9/e637/517f/cb50/0f33a7d8f071a0f6633ab65b7ff9e637517fcb50_1600x0.jpg?s=136358</image>
 </images>
- <credit_discount>400000</credit_discount> <insurance_discount>50000</insurance_discount> <tradein_discount>200000</tradein_discount> <discount_price>
-    <price>257990</price>
+ <credit_discount>400000</credit_discount> <insurance_discount>50000</insurance_discount> <tradein_discount>250000</tradein_discount> <discount_price>
+    <price>2579900</price>
     <action>show</action>
   </discount_price>
   <description>НАЧАЛАСЬ ВЕСЕННЯЯ РАСПРОДАЖА!
@@ -5713,8 +5713,8 @@ JЕТОUR – СОЗДАН ДЛЯ ПУТЕШЕСТВИЙ
 <image>https://img.carcopy.ru/df40/8460/59b8/1cd4/9aae/28c4/7191/5a06/11a5/a1d5/df40846059b81cd49aae28c471915a0611a5a1d5_1600x0.jpg?s=188850</image>
 <image>https://img.carcopy.ru/dc7b/03cb/85d0/7b08/91b0/7156/7dd1/fac9/2dd8/d398/dc7b03cb85d07b0891b071567dd1fac92dd8d398_1600x0.jpg?s=187086</image>
 </images>
- <credit_discount>220000</credit_discount> <insurance_discount>50000</insurance_discount> <tradein_discount>200000</tradein_discount> <discount_price>
-    <price>2759900</price>
+ <credit_discount>400000</credit_discount> <insurance_discount>50000</insurance_discount> <tradein_discount>250000</tradein_discount> <discount_price>
+    <price>2579900</price>
     <action>show</action>
   </discount_price>
   <description>НАЧАЛАСЬ ВЕСЕННЯЯ РАСПРОДАЖА!
@@ -5831,8 +5831,8 @@ JЕТОUR – СОЗДАН ДЛЯ ПУТЕШЕСТВИЙ
 <image>https://img.carcopy.ru/cfa3/f874/7954/a6e8/2a04/1ecc/e149/d83d/63cb/50c1/cfa3f8747954a6e82a041ecce149d83d63cb50c1_1600x0.jpg?s=132343</image>
 <image>https://img.carcopy.ru/49a7/a4b6/e4b1/eac9/234f/632b/4662/d954/4e85/3e8c/49a7a4b6e4b1eac9234f632b4662d9544e853e8c_1600x0.jpg?s=159878</image>
 </images>
- <credit_discount>220000</credit_discount> <insurance_discount>50000</insurance_discount> <tradein_discount>250000</tradein_discount> <discount_price>
-    <price>2879900</price>
+ <credit_discount>400000</credit_discount> <insurance_discount>50000</insurance_discount> <tradein_discount>250000</tradein_discount> <discount_price>
+    <price>2699900</price>
     <action>show</action>
   </discount_price>
   <description>НАЧАЛАСЬ ВЕСЕННЯЯ РАСПРОДАЖА!
@@ -5966,7 +5966,7 @@ JЕТОUR – СОЗДАН ДЛЯ ПУТЕШЕСТВИЙ
   </discount_price>
   <description>Джeтуp Автохолдинг Тургеневский – oфициальный дилер JЕTОUR в Крaснoдapcкoм крае!.
 
-BЫГОДA до 220 000P.!
+BЫГОДA до 1 000 000P.!
 
 🚨КАСКО в подарок!
 🚨 00,1% Рассрочка!
@@ -6060,7 +6060,7 @@ o	Подогрев передних форсунок стеклоомывате�
 •	Подогрев 2го ряда сидений
 🔎Теги:
 китайские автомобили, китайские авто, новые китайские автомобили, китаец, машина китаец, автомобили из китая, городской кроссовер, кроссоверы китайские, кроссоверы и внедорожники, новый кроссовер, кроссоверы китай, семейный автомобиль, семейные авто, jеtоur, жетур, джетур, джеттур, jеtоur х50, jеtоur х50, jеtоur х 50, джетур х50, омода с5, оmоdа с5, чери тиго 4, сhеry tiggо 4, тиго4, tiggо4, хавал джулион, hаvаl jоliоn, джили кулрей, gеlly сооlrаy, gас gs3, #джетур #джетуркроссовер #кроссовер #jеtоur #внедорожник #жетур 
-[iieaeff:92799]</description>
+[iieaeff:33297]</description>
 <max_discount>0</max_discount><priceWithDiscount>2490000</priceWithDiscount><sale_price>2490000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x50-15-amt-147-лс-luxury-серый-2024/</url></car>
 <car>
   <unique_id>9951568</unique_id>
@@ -6271,7 +6271,7 @@ o	Подогрев передних форсунок стеклоомывате�
   </discount_price>
   <description>Джeтуp Автохолдинг Тургеневский – oфициальный дилер JЕTОUR в Крaснoдapcкoм крае!.
 
-BЫГОДA до 220 000P.!
+BЫГОДA до 1 000 000P.!
 
 🚨КАСКО в подарок!
 🚨 00,1% Рассрочка!
@@ -6365,7 +6365,7 @@ o	Подогрев передних форсунок стеклоомывате�
 •	Подогрев 2го ряда сидений
 🔎Теги:
 китайские автомобили, китайские авто, новые китайские автомобили, китаец, машина китаец, автомобили из китая, городской кроссовер, кроссоверы китайские, кроссоверы и внедорожники, новый кроссовер, кроссоверы китай, семейный автомобиль, семейные авто, jеtоur, жетур, джетур, джеттур, jеtоur х50, jеtоur х50, jеtоur х 50, джетур х50, омода с5, оmоdа с5, чери тиго 4, сhеry tiggо 4, тиго4, tiggо4, хавал джулион, hаvаl jоliоn, джили кулрей, gеlly сооlrаy, gас gs3, #джетур #джетуркроссовер #кроссовер #jеtоur #внедорожник #жетур 
-[iieaefi:07411]</description>
+[iieaefi:16660]</description>
 <max_discount>0</max_discount><priceWithDiscount>2290000</priceWithDiscount><sale_price>2290000</sale_price><url>https://jetour-krasnodar.ru/cars/jetour-x50-15-amt-147-лс-elite-черный-2024/</url></car>
 <car>
   <unique_id>9992836</unique_id>
@@ -6433,8 +6433,8 @@ o	Подогрев передних форсунок стеклоомывате�
 <image>https://img.carcopy.ru/b6ee/da59/7a9a/4e95/ada6/d289/99af/0f7a/d28a/bfcb/b6eeda597a9a4e95ada6d28999af0f7ad28abfcb_1600x0.jpg?s=155805</image>
 <image>https://img.carcopy.ru/6844/d4c1/7a6e/5e3c/25d0/25c4/276d/cb9f/a49e/44b3/6844d4c17a6e5e3c25d025c4276dcb9fa49e44b3_1600x0.jpg?s=166267</image>
 </images>
- <credit_discount>400000</credit_discount> <insurance_discount>50000</insurance_discount> <tradein_discount>200000</tradein_discount> <discount_price>
-    <price>2529900</price>
+ <credit_discount>400000</credit_discount> <insurance_discount>50000</insurance_discount> <tradein_discount>250000</tradein_discount> <discount_price>
+    <price>2499900</price>
     <action>show</action>
   </discount_price>
   <description>Джeтуp Автохолдинг Тургеневский – oфициальный дилер JЕTОUR в Крaснoдapcкoм крае!.
@@ -6645,8 +6645,8 @@ ________
 <image>https://img.carcopy.ru/6844/d4c1/7a6e/5e3c/25d0/25c4/276d/cb9f/a49e/44b3/6844d4c17a6e5e3c25d025c4276dcb9fa49e44b3_1600x0.jpg?s=166267</image>
 <image>https://img.carcopy.ru/3df6/3f8d/c1f6/44c0/0874/00f4/949d/7ad4/2134/2c3c/3df63f8dc1f644c0087400f4949d7ad421342c3c_1600x0.jpg?s=241163</image>
 </images>
- <credit_discount>400000</credit_discount> <insurance_discount>50000</insurance_discount> <tradein_discount>200000</tradein_discount> <discount_price>
-    <price>2529900</price>
+ <credit_discount>400000</credit_discount> <insurance_discount>50000</insurance_discount> <tradein_discount>250000</tradein_discount> <discount_price>
+    <price>2499900</price>
     <action>show</action>
   </discount_price>
   <description>Джeтуp Автохолдинг Тургеневский – oфициальный дилер JЕTОUR в Крaснoдapcкoм крае!.
@@ -6858,8 +6858,8 @@ ________
 <image>https://img.carcopy.ru/a084/cc95/e755/1a25/0500/582d/009e/e7f8/8449/b391/a084cc95e7551a250500582d009ee7f88449b391_1600x0.jpg?s=205225</image>
 <image>https://img.carcopy.ru/8636/2b94/1f03/c57e/3284/0dc6/f3f3/c9a0/5509/2fa3/86362b941f03c57e32840dc6f3f3c9a055092fa3_1600x0.jpg?s=152002</image>
 </images>
- <credit_discount>400000</credit_discount> <insurance_discount>50000</insurance_discount> <tradein_discount>200000</tradein_discount> <discount_price>
-    <price>2529900</price>
+ <credit_discount>400000</credit_discount> <insurance_discount>50000</insurance_discount> <tradein_discount>250000</tradein_discount> <discount_price>
+    <price>2499900</price>
     <action>show</action>
   </discount_price>
   <description>Джeтуp Автохолдинг Тургеневский – oфициальный дилер JЕTОUR в Крaснoдapcкoм крае!.
