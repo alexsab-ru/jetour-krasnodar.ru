@@ -1,0 +1,58 @@
+---
+h1: Программа "Приведи друга"
+title: Программа "Приведи друга"
+caption: Программа "Приведи друга"
+breadcrumb: Программа "Приведи друга"
+pubDate: 2025-06-03
+toDate: 2025-07-31
+image: https://cdn.alexsab.ru/specials/jetour/refer-a-friend-program/thumb.webp
+description: "Рекомендуйте Jetour друзьям и участвуйте в розыгрыше ценных призов"
+---
+
+import Button from '@/components/Button/Button.astro';
+import FeedbackForm from '@/components/FeedbackForm/FeedbackForm.astro';
+import { SITE_NAME, PHONE, TIMER } from '@/const';
+import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+import Timer from '@/components/Timer/Timer.astro';
+import Slider from '@/components/Slider/Slider.astro';
+
+export const dateFrom = '01.06.2025';
+export const dateTo = '31.07.2025';
+export const dateToTimer = `${YEAR}-${MONTH}-${LAST_DAY}T23:59:59+04:00`;
+export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
+export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
+
+<picture>
+	<source media="(min-width: 768px)" srcset="https://cdn.alexsab.ru/specials/jetour/refer-a-friend-program/1.webp" />
+	<img src="https://cdn.alexsab.ru/specials/jetour/refer-a-friend-program/thumb.webp" class="mb-10 lg:mb-20 w-full" alt="Рекомендуйте Jetour друзьям и участвуйте в розыгрыше ценных призов" />
+</picture>
+
+## Рекомендуйте Jetour друзьям и участвуйте в розыгрыше ценных призов
+
+**Кто может участвовать:**
+
+- Все владельцы любого автомобиля Jetour;
+- Новые владельцы любого автомобиля Jetour, купившие автомобиль в период с {dateFrom} по {dateTo} по рекомендации другого владельца.
+
+**Как участвовать:**
+
+Для владельцев Jetour
+
+- Зарегистрироваться в <a href="https://t.me/jetour_bonus_bot?start=site_owner" target="_blank">Бонус боте Jetour</a>
+- Верифицировать VIN-номер своего автомобиля Jetour, чтобы подтвердить владение;
+- Получить и поделиться с друзьями реферальной ссылкой
+
+Для новых владельцев Jetour
+
+- Открыть полученную от владельца Jetour реферальную ссылку и заполнить форму в <a href="https://t.me/jetour_bonus_bot?start=site_owner" target="_blank">Бонус боте Jetour</a>;
+- Приобрести автомобиль Jetour в период с {dateFrom} по {dateTo}.
+
+Для участия в Акции Вы также можете обратиться напрямую к своему официальному дилеру JETOUR
+
+Участники, выполнившие условия, получают набор Jetour Ceramic для ухода за кузовом автомобиля.
+
+А среди текущих владельцев, зарегистрировавшихся в Бонус боте Jetour и сделавших наибольшее количество успешных рекомендаций, в результате которых были приобретены новые автомобили Jetour, будут разыграны 3 тура в Китай.
+
+<a href="https://t.me/jetour_bonus_bot?start=site_owner" target="_blank" class="btn">Участвовать</a>
+
+<p><a href="https://jetour-ru.com/media-link/Rules-of-the-promotion-Bring-a-friend-to-the-family-Jetour" target="_blank" >Подробные правила Акции</a></p>
