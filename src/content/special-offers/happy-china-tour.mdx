@@ -1,0 +1,63 @@
+---
+h1: Путешествие в Китай начинается c JETOUR
+title: Путешествие в Китай начинается c JETOUR
+caption: Путешествие в Китай начинается c JETOUR
+breadcrumb: Путешествие в Китай начинается c JETOUR
+pubDate: 2025-06-03
+toDate: true
+image: https://cdn.alexsab.ru/specials/jetour/happy-china-tour/thumb.webp
+description: "Купите новый автомобиль Jetour с 1 июня по 31 июля 2025 и участвуйте в розыгрыше ценных призов: туры в Китай, сертификаты на путешествия и топливные карты. Регистрируйтесь до 07.08.2025 и выигрывайте."
+---
+
+import Button from '@/components/Button/Button.astro';
+import FeedbackForm from '@/components/FeedbackForm/FeedbackForm.astro';
+import { TIMER } from '@/const';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common, legal_city_where } = settings;
+import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+import Timer from '@/components/Timer/Timer.astro';
+import Slider from '@/components/Slider/Slider.astro';
+
+export const dateFrom = '01.06.2025';
+export const dateTo = '31.07.2025';
+export const dateToTimer = `${YEAR}-${MONTH}-${LAST_DAY}T23:59:59+04:00`;
+export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
+export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
+
+
+<picture>
+	<source media="(min-width: 768px)" srcset="https://cdn.alexsab.ru/specials/jetour/happy-china-tour/1.webp" />
+	<img src="https://cdn.alexsab.ru/specials/jetour/happy-china-tour/thumb.webp" class="mb-10 lg:mb-20 w-full" alt="Путешествие в Китай начинается c JETOUR" />
+</picture>
+
+## Путешествие в Китай начинается c JETOUR
+
+При покупке нового автомобиля Jetour в период с {dateFrom} по {dateTo} Вы получаете шанс на выигрыш ценных призов. Регистрируйтесь до 07.08.2025 и участвуйте в розыгрыше призов.
+
+**Призовой фонд:**
+
+- **1 место**	 – 12 пятидневных туров в Китай на двоих;
+
+- **2 место** – 15 сертификатов на сервис путешествий номиналом 30 000 рублей;
+
+- **3 место** – 20 топливных карт номиналом 4 000 рублей.
+
+**Условия участия:**
+
+1. Вы владелец автомобиля Jetour, купленного у официального дилера в РФ в период с {dateFrom} по {dateTo} года;
+2. У Вас открытый профиль и 200+ подписчиков в социальной сети Вконтакте;
+3. У Вас как минимум 1 публикация, содержащая упоминание бренда Jetour и фотографию автомобиля марки «Jetour» после покупки в период проведения Акции;
+4. Вы готовы освещать всю поездку в своих социальных сетях в случае победы;
+5. У Вас есть действующий заграничный паспорт и нет длительной турецкой визы.
+
+**Определение Победителей:**
+
+- 12 туров в Китай разыгрываются среди всех участников, зарегистрировавшихся в Акции и выполнивших все условия;
+
+- 15 сертификатов на сервис путешествий разыгрываются среди участников, зарегистрировавшихся в Акции после покупки автомобиля Jetour, но не выигравших тур в Китай;
+
+20 топливных карт разыгрываются среди участников, зарегистрировавшихся в Акции после покупки автомобиля Jetour, но не выигравших тур в Китай и сертификат на сервис путешествий.
+
+<p><a href="https://jetour-ru.com/Happy-China-Tour#block_key_forma-puteshestvie-v-kitaj_MGwo" target="_blank" class="btn">Регистрация в Акции</a></p>
+<a href="https://jetour-ru.com/media-link/Rules-for-the-Promotion-Travel-to-China" target="_blank">Подробные правила Акции</a>
+
