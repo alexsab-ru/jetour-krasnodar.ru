@@ -10,7 +10,9 @@ description: "Официальный дилерский центр Jetour в К�
 ---
 
 import Button from '@/components/Button/Button.astro';
-import { LEGAL_CITY_WHERE, LEGAL_ENTITY, TIMER } from '@/const';
+import { TIMER } from '@/const';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common, legal_city_where } = settings;
 import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
 import Timer from '@/components/Timer/Timer.astro';
 

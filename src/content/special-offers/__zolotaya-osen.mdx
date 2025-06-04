@@ -9,7 +9,8 @@ description: "Золотая осень с Jetour - это выгода на п�
 ---
 
 import Button from '@/components/Button/Button.astro';
-import { LEGAL_CITY_WHERE, LEGAL_ENTITY } from '@/const';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common, legal_entity, legal_city_where } = settings;
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
 export const DateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
@@ -104,7 +105,7 @@ export const DateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
         <ol>
             <li>1. Пригласите своих друзей на тест-драйв в официальные дилерские центры Jetour.</li>
             <li>2. Если Ваш друг приобретет автомобиль Jetour до {DateTo}г., то Вы и Ваш друг получите практичный подарок - уникальный набор для ухода за кузовом автомобиля.</li>
-            <li>3. Обратитесь к официальному дилеру {LEGAL_ENTITY} в {LEGAL_CITY_WHERE} для регистрации в акции.</li>
+            <li>3. Обратитесь к официальному дилеру {legal_entity} в {legal_city_where} для регистрации в акции.</li>
         </ol>
         <p class="!mb-5 font-bold">С 4.09.2024 г. по {DateTo} г.</p>
         <Button

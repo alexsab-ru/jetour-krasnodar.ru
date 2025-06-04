@@ -9,10 +9,10 @@ description: "Приобретайте автомобиль Jetour Dashing в л
 export const DateTo = "31.03.2024"
 
 import Button from '@/components/Button/Button.astro';
-import { SITE_NAME, PHONE } from '@/const';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common, legal_city_where } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
-import { LEGAL_CITY_WHERE } from '@/const'
 
 <picture>
     <source media="(min-width: 1025px)" srcset="/img/specials/vigoda-300-000-rub-na-jetour/vigoda-300-000-rub-na-jetour.webp" />
@@ -23,11 +23,11 @@ import { LEGAL_CITY_WHERE } from '@/const'
 <br />
 <br />
 
-**Вы можете приобрести автомобиль Jetour Dashing в любой комплектации с выгодой до 1&nbsp;000&nbsp;000 рублей в Дилерском центре &laquo;Jetour Автохолдинг&raquo; в {LEGAL_CITY_WHERE}.**
+**Вы можете приобрести автомобиль Jetour Dashing в любой комплектации с выгодой до 1&nbsp;000&nbsp;000 рублей в Дилерском центре &laquo;Jetour Автохолдинг&raquo; в {legal_city_where}.**
 
 Предложение суммируется со всеми кредитными программами банков-партнеров.
 
-Подробности уточняйте по телефону <a href={`tel:${phoneFormat(PHONE)}`}>{PHONE}</a>
+Подробности уточняйте по телефону <a href={`tel:${phoneFormat(phone_common)}`}>{phone_common}</a>
 
 <div class="flex justify-center mt-10 mb-5">
     <Button

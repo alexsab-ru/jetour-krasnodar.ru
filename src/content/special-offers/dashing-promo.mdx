@@ -11,7 +11,9 @@ description: "Выгода при покупке JETOUR DASHING на офици�
 
 import Button from '@/components/Button/Button.astro';
 import FeedbackForm from '@/components/FeedbackForm/FeedbackForm.astro';
-import { LEGAL_CITY_WHERE, LEGAL_ENTITY, TIMER } from '@/const';
+import { TIMER } from '@/const';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common, legal_city_where } = settings;
 import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
 import Timer from '@/components/Timer/Timer.astro';
 import Slider from '@/components/Slider/Slider.astro';
