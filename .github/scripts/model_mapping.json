@@ -660,7 +660,7 @@
                 "Чёрный": "c2b.png",
                 "Красный": "c3b.png",
                 "Лазурный": "c4b.png",
-                "Cиний": "c4b.png",
+                "Синий": "c4b.png",
                 "Серый": "c5b.png",
                 "Зеленый": "c6b.png",
                 "Зелёный": "c6b.png",
@@ -991,7 +991,7 @@
             }
         },
         "CS35PLUS, I Рестайлинг": {
-            "folder": "cs35plus new",
+            "folder": "cs35plusnew",
             "color": {
                 "Crystal_white": "cs35plusnew_crystal_white.webp",
                 "Кристально белый": "cs35plusnew_crystal_white.webp",

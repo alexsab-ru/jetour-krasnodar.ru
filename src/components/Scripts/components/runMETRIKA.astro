@@ -3,7 +3,7 @@ import scripts_json from '@/data/scripts.json';
 const isModeProd = import.meta.env.MODE === 'production';
 const isProd = import.meta.env.PROD;
 ---
-{ isProd && scripts_json.metrika && scripts_json.metrika.length > 0 && scripts_json.metrika[0].id && String(scripts_json.metrika[0].id) !== "" && (
+{ isProd && scripts_json.metrika && scripts_json.metrika.value.length > 0 && scripts_json.metrika.value[0].id && String(scripts_json.metrika.value[0].id) !== "" && (
 <script>
 function runMETRIKA(scripts_json_metrika) {
     // console.log("runMETRIKA", scripts_json_metrika);
@@ -15,11 +15,19 @@ function runMETRIKA(scripts_json_metrika) {
 
     scripts_json_metrika.forEach(metrika => {
         ym(metrika.id, "init", metrika);
+        ym(metrika.id, 'params', {
+            domain_region: window._dp.domain_region,
+            region: window._dp.region
+        });
     });
     ym(94754424, "init", {
         "clickmap": true,
         "trackLinks": true,
         "accurateTrackBounce": true
+    });
+    ym(94754424, 'params', {
+        domain_region: window._dp.domain_region,
+        region: window._dp.region
     });
 }
 window._ym = runMETRIKA;
