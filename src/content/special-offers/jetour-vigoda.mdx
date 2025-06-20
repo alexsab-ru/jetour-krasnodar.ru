@@ -1,12 +1,12 @@
 ---
-h1: Встречай весну с JETOUR!
-title: Встречай весну с JETOUR!
-caption: Путешествуйте с любимыми
-breadcrumb: Путешествуйте с любимыми
+h1: Встречай лето с JETOUR!
+title: Встречай лето с JETOUR!
+caption: Встречай лето с JETOUR!
+breadcrumb: Встречай лето с JETOUR!
 pubDate: 2025-05-01
 toDate: true
-image: https://cdn.alexsab.ru/specials/jetour/alpha/jetour-vigoda/thumb.webp
-description: "Официальный дилерский центр Jetour в Краснодаре реализует специальное предложение «Встречай весну с JETOUR!» для выгодной покупки и обслуживания Джетур. ➤ Подробнее об условиях акции читайте на сайте JETOUR!"
+image: https://cdn.alexsab.ru/specials/jetour/jetour-vigoda/jetour-leto-mobile.webp
+description: "Официальный дилерский центр Jetour в Краснодаре реализует специальное предложение «Встречай лето с JETOUR!» для выгодной покупки и обслуживания Джетур. ➤ Подробнее об условиях акции читайте на сайте JETOUR!"
 ---
 
 import Button from '@/components/Button/Button.astro';
@@ -21,8 +21,8 @@ export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
 export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
 
 <picture>
-    <source media="(min-width: 768px)" srcset="https://cdn.alexsab.ru/specials/jetour/alpha/jetour-vigoda/banner_1920x1080.webp" />
-    <img src="https://cdn.alexsab.ru/specials/jetour/alpha/jetour-vigoda/banner_767x767.webp" class="mb-10 lg:mb-20 w-full" alt="Путешествуйте с любимыми" />
+    <source media="(min-width: 768px)" srcset="https://cdn.alexsab.ru/specials/jetour/jetour-vigoda/jetour-leto-desktop.webp" />
+    <img src="https://cdn.alexsab.ru/specials/jetour/jetour-vigoda/jetour-leto-mobile.webp" class="mb-10 lg:mb-20 w-full" alt="Встречай лето с JETOUR!" />
 </picture>
 
 {TIMER.show && <Timer endtime={TIMER.endtime} title={TIMER.title} subtitle={TIMER.subtitle} btnName={TIMER.btnName} />}
