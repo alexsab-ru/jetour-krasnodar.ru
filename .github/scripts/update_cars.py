@@ -62,12 +62,29 @@ class CarProcessor:
                 'rename_map': {
                     'brand': 'mark_id',
                     'model': 'folder_id',
+                    'Model': 'folder_id',
+                    'Make': 'mark_id',
+                    'Year': 'year',
                     'modification': 'modification_id',
+                    'Modification': 'modification_id',
                     'complectation': 'complectation_name',
+                    'Complectation': 'complectation_name',
                     'bodyColor': 'color',
                     'mileage': 'run',
                     'bodyType': 'body_type',
-                    'steeringWheel': 'wheel'
+                    'BodyType': 'body_type',
+                    'steeringWheel': 'wheel',
+                    'WheelType': 'wheel',
+                    'DriveType': 'drive_type',
+                    'Transmission': 'gearboxType',
+                    'Price': 'price',
+                    'Description': 'description',
+                    'MaxDiscount': 'max_discount',
+                    'TradeinDiscount': 'tradeinDiscount',
+                    'CreditDiscount': 'creditDiscount',
+                    'InsuranceDiscount': 'insuranceDiscount',
+                    'VIN': 'vin',
+                    'Color': 'color'
                 },
                 'elements_to_localize': [
                     'engineType', 'driveType', 'gearboxType', 'ptsType', 'color', 'body_type', 'wheel'
@@ -119,8 +136,12 @@ class CarProcessor:
     def calculate_max_discount(self, car: ET.Element) -> int:
         """Расчёт максимальной скидки в зависимости от типа источника"""
         if self.source_type in ['maxposter', 'vehicles_vehicle']:
-            credit_discount = int(car.find('creditDiscount').text or 0)
-            tradein_discount = int(car.find('tradeinDiscount').text or 0)
+            credit_discount_elem = car.find('creditDiscount')
+            tradein_discount_elem = car.find('tradeinDiscount')
+            
+            credit_discount = int(credit_discount_elem.text or 0) if credit_discount_elem is not None and credit_discount_elem.text else 0
+            tradein_discount = int(tradein_discount_elem.text or 0) if tradein_discount_elem is not None and tradein_discount_elem.text else 0
+            
             return credit_discount + tradein_discount
         else:
             max_discount_elem = car.find('max_discount')
@@ -149,8 +170,9 @@ class CarProcessor:
         sale_price = price - max_discount
         
         # Обработка priceWithDiscount в зависимости от источника
-        if self.source_type == 'maxposter' and car.find('priceWithDiscount').text is not None:
-            sale_price = int(car.find('priceWithDiscount').text)
+        price_with_discount_elem = car.find('priceWithDiscount')
+        if self.source_type == 'maxposter' and price_with_discount_elem is not None and price_with_discount_elem.text is not None:
+            sale_price = int(price_with_discount_elem.text)
         create_child_element(car, 'priceWithDiscount', sale_price)
         create_child_element(car, 'sale_price', sale_price)
         
@@ -272,6 +294,16 @@ def main():
     processor = CarProcessor(args.source_type)
     
     # Инициализация
+    print(f"🚗 Начинаю обработку автомобилей...")
+    print(f"📂 Входной файл: {os.path.abspath(args.input_file)}")
+    print(f"🌐 XML URL: {args.xml_url}")
+    print(f"📁 Директория для автомобилей: {os.path.abspath(args.cars_dir)}")
+    print(f"📁 Директория для миниатюр: {os.path.abspath(config['thumbs_dir'])}")
+    print(f"💾 Выходной файл: {os.path.abspath(args.output_path)}")
+    print(f"🔧 Тип источника: {args.source_type}")
+    print(f"🖼️ Тег изображений: {args.image_tag}")
+    print(f"📝 Тег описания: {args.description_tag}")
+    
     root = get_xml_content(args.input_file, args.xml_url)
     tree = ET.ElementTree(root)
     setup_directories(config['thumbs_dir'], args.cars_dir)
@@ -283,6 +315,10 @@ def main():
     
     # Обработка машин
     cars_element = processor.get_cars_element(root)
+    cars_count = len(cars_element)
+    print(f"📊 Найдено автомобилей для обработки: {cars_count}")
+    print(f"🔍 VIN автомобилей извлекается из XML данных (элемент 'vin')")
+    
     for car in cars_element:
         processor.rename_elements(car)
 
@@ -308,7 +344,13 @@ def main():
             os.remove(filepath)
     
     if os.path.exists('output.txt') and os.path.getsize('output.txt') > 0:
-        print("error 404 found")
+        print("❌ error 404 found")
+        print("📄 Содержимое файла output.txt:")
+        with open('output.txt', 'r', encoding='utf-8') as f:
+            content = f.read()
+            print(content)
+    else:
+        print("✅ Ошибок 404 не найдено")
 
 if __name__ == "__main__":
     main()
