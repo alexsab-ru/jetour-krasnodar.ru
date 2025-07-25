@@ -1,0 +1,38 @@
+[
+  {
+    "brand": "Jetour",
+    "model": "Dashing",
+    "price": 1889900,
+    "benefit": 1180000
+  },
+  {
+    "brand": "Jetour",
+    "model": "T2",
+    "price": 3321912,
+    "benefit": 927088
+  },
+  {
+    "brand": "Jetour",
+    "model": "X50",
+    "price": 1940000,
+    "benefit": 550000
+  },
+  {
+    "brand": "Jetour",
+    "model": "X70",
+    "price": 2388000,
+    "benefit": 261000
+  },
+  {
+    "brand": "Jetour",
+    "model": "X70 PLUS",
+    "price": 1999900,
+    "benefit": 1000000
+  },
+  {
+    "brand": "Jetour",
+    "model": "X90 PLUS",
+    "price": 2579900,
+    "benefit": 0
+  }
+]
