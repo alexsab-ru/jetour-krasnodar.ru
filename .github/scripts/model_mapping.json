@@ -466,9 +466,7 @@
                 "Графеновый серый": "grey-graphite.webp",
                 "Серебристый": "silver.webp",
                 "Серебряный": "silver.webp",
-                "Белый": "white.webp",
-                "Лавандовый": "lavender.webp",
-                "Розовый": "lavender.webp"
+                "Белый": "white.webp"
             }
         },
         "GS4": {
@@ -632,7 +630,8 @@
                 "Серый": "gray.webp",
                 "Черный": "black.webp",
                 "Красный": "red.webp",
-                "Синий": "blue.webp"
+                "Синий": "blue.webp",
+                "Серебристый": "silver.webp"
             }},
         "T9": {
             "folder": "t9",
@@ -651,30 +650,6 @@
     },
     "Jetour": {
         "Dashing, I": {
-            "folder": "dashing",
-            "cyrillic": "Дашинг",
-            "color": {
-                "White": "c1b.png",
-                "Black": "c2b.png",
-                "Red": "c3b.png",
-                "Azure": "c4b.png",
-                "Grey": "c5b.png",
-                "Green": "c6b.png",
-                "Lightgray": "c7b.png",
-                "Белый": "c1b.png",
-                "Черный": "c2b.png",
-                "Чёрный": "c2b.png",
-                "Красный": "c3b.png",
-                "Лазурный": "c4b.png",
-                "Синий": "c4b.png",
-                "Серый": "c5b.png",
-                "Зеленый": "c6b.png",
-                "Зелёный": "c6b.png",
-                "Серебряный": "c7b.png",
-                "Светло-серый": "c7b.png"
-            }
-        },
-        "Dashing": {
             "folder": "dashing",
             "cyrillic": "Дашинг",
             "color": {
@@ -1398,6 +1373,17 @@
         "F7, II": {
             "folder": "f7",
             "cyrillic": "F7",
+            "color": {
+                "Синий": "oceanic-lapis-lazuli.webp",
+                "Черный": "galactic-black.webp",
+                "Чёрный": "galactic-black.webp",
+                "Белый": "noble-agate.webp",
+                "Серый": "smoky-pearls.webp"
+            }
+        },
+        "F7x, I": {
+            "folder": "new-haval-f7x",
+            "cyrillic": "F7x",
             "color": {
                 "Синий": "oceanic-lapis-lazuli.webp",
                 "Черный": "galactic-black.webp",
@@ -2132,6 +2118,7 @@
             "color": {
                 "Black": "black.webp",
                 "Черный": "black.webp",
+                "Чёрный": "black.webp",
                 "Gray": "gray.webp",
                 "Серый": "gray.webp",
                 "White": "white.webp",
